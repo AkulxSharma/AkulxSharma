@@ -1,6 +1,5 @@
 <div >
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=11CBF7&repeat=false&random=true&width=435&height=82&lines=Hey!+I+am+Akul;Hello!+I+am+Akul;Hi!+I+am+Akul" alt="Typing SVG" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=11CBF7&multiline=true&repeat=false&random=true&width=435&height=82&lines=Hey!+I+am+Akul;Hello!+I+am+Akul;Hi!+I+am+Akul" alt="Typing SVG" /></div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
