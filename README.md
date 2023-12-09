@@ -1,8 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There)](https://git.io/typing-svg)
-
-### Hi there 👋
-
-
+<a href="https://git.io/typing-svg"><img style="margin-left=50vw;" src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&pause=1000&color=11CBF7&repeat=false&random=true&width=435&height=82&lines=Hello!;Hi;Hey" alt="Typing SVG" /></a>
 <!--
 **AkulxSharma/AkulxSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
