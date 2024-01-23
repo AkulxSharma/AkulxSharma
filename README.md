@@ -20,8 +20,8 @@ Write about what you are looking for help with.
 Write about what others can ask you about. This could be about your projects, your work, or maybe even your hobbies outside of coding. -->
 
 ## 📫 How to reach me: 
-
-Here you can add your contact information, such as email, LinkedIn, Twitter, etc.
+Email - sharmaakul2007@gmail.com
+Website - https://akulsharma.dev
 
 <!--## ⚡ Fun fact: 
 
