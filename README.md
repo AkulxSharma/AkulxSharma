@@ -1,15 +1,43 @@
+# Hi there 👋, I'm AkulSharma
 
-<!--
-**AkulxSharma/AkulxSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm a FrontEnd Web Developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
+<!-- Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. 
 -->
+## 🌱 I’m currently learning ...
+
+FrontEnd (React.js)<br>
+BackEnd (Node.js)
+## 👯 I’m looking to collaborate on ...
+
+Any kind of FrontEnd Development Project
+
+<!-- ## 🤔 I’m looking for help with ...
+
+Write about what you are looking for help with.
+
+## 💬 Ask me about ...
+
+Write about what others can ask you about. This could be about your projects, your work, or maybe even your hobbies outside of coding. -->
+
+## 📫 How to reach me: 
+
+Here you can add your contact information, such as email, LinkedIn, Twitter, etc.
+
+<!--## ⚡ Fun fact: 
+
+Write about a fun fact about yourself. -->
+
+## 🛠️ My favorite tools:
+
+<li>HTML
+<li>CSS
+<li>JavaScript (React.js)
+<li>Firebase
+
+<!--## 📈 My GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true) -->
+
+## 🏆 My GitHub Achievements
+
+![Your GitHub Trophy](https://github-profile-trophy.vercel.app/?username=AkulxSharma&row=1)
