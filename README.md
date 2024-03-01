@@ -5,8 +5,7 @@ I'm a FrontEnd Web Developer who is passionate about making open-source more acc
 -->
 ## 🌱 I’m currently learning ...
 
-FrontEnd (React.js)<br>
-BackEnd (Node.js)
+FrontEnd (React.js)
 ## 👯 I’m looking to collaborate on ...
 
 Any kind of FrontEnd Development Project
